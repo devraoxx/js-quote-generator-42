@@ -1,2 +1,4 @@
-# js-quote-generator-42
+# Js Quote Generator 42
+
 Generate mock daily motivational quotes in JavaScript.
+
